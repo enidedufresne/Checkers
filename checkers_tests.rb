@@ -40,7 +40,7 @@
 
 # puts move_legal?(1, 5, 2, "D5")
 
-def method
+def test_abort
 	abort("Message")
 	puts "Sfsd"
 end
