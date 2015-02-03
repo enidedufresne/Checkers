@@ -47,7 +47,7 @@ end
 
 method
 puts "hey"
-
+#Try putting something better than 'hey'.
 
 # def legal_move?(row, column, to_row, to_column, player)
 # 	possible_moves = []
